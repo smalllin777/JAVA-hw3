@@ -19,8 +19,8 @@ public class  A1113318_0317_1{
         }
 
         System.out.println("您所輸入的n和m值所產生的n*m陣列如下：");
-        for (int [] row: array) {
-            for (int value : row) {
+        for (int [] num: array) {
+            for (int value : num) {
                 System.out.print(value + "\t");
             }
             System.out.println();
